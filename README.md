@@ -157,3 +157,8 @@ Building scalable, secure, and modern web applications using Java and Spring Boo
 <p align="center">
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
