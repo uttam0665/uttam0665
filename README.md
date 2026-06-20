@@ -28,8 +28,6 @@ Building scalable, secure, and modern web applications using Java and Spring Boo
 
 ☁️ Exploring AWS Cloud, Docker, Kafka, and Microservices.
 
-📊 Interested in Machine Learning and Data Analytics.
-
 🌱 Currently enhancing my expertise in Full-Stack Development and System Design.
 
 🤝 Open to collaborating on Java, Spring Boot, and Open Source Projects.
