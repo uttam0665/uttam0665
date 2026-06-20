@@ -106,11 +106,11 @@ Building scalable, secure, and modern web applications using Java and Spring Boo
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam0665&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam0665&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=uttam0665&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=uttam0665&theme=tokyonight&hide_border=true&cache_seconds=1"/>
 </p>
 
 ---
